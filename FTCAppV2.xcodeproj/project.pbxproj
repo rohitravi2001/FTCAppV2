@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11494AED06694245A630F654 /* Pods_FTCAppV2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB8FE3BEB24F7582190C9E68 /* Pods_FTCAppV2.framework */; };
 		2C72AB3E24B03CA600A8AC15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C72AB3D24B03CA600A8AC15 /* AppDelegate.swift */; };
 		2C72AB4024B03CA600A8AC15 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C72AB3F24B03CA600A8AC15 /* SceneDelegate.swift */; };
 		2C72AB4224B03CA600A8AC15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C72AB4124B03CA600A8AC15 /* ViewController.swift */; };
@@ -15,6 +16,8 @@
 		2C72AB4A24B03CA800A8AC15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C72AB4824B03CA800A8AC15 /* LaunchScreen.storyboard */; };
 		2C72AB5524B03CA800A8AC15 /* FTCAppV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C72AB5424B03CA800A8AC15 /* FTCAppV2Tests.swift */; };
 		2C72AB6024B03CA800A8AC15 /* FTCAppV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C72AB5F24B03CA800A8AC15 /* FTCAppV2UITests.swift */; };
+		7877ACBF43BD4572A076B81D /* Pods_FTCAppV2_FTCAppV2UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B409833185330400254E811B /* Pods_FTCAppV2_FTCAppV2UITests.framework */; };
+		BAA02F7A7CD59CB150F8A515 /* Pods_FTCAppV2Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CF90CEB689743CE1BE8900F /* Pods_FTCAppV2Tests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		10A6B8C855B28972B4833984 /* Pods-FTCAppV2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FTCAppV2.debug.xcconfig"; path = "Target Support Files/Pods-FTCAppV2/Pods-FTCAppV2.debug.xcconfig"; sourceTree = "<group>"; };
+		221DEC532FBE3E56F8738DCE /* Pods-FTCAppV2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FTCAppV2.release.xcconfig"; path = "Target Support Files/Pods-FTCAppV2/Pods-FTCAppV2.release.xcconfig"; sourceTree = "<group>"; };
+		248A56D98E4695C1E92F5F13 /* Pods-FTCAppV2-FTCAppV2UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FTCAppV2-FTCAppV2UITests.debug.xcconfig"; path = "Target Support Files/Pods-FTCAppV2-FTCAppV2UITests/Pods-FTCAppV2-FTCAppV2UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		2C72AB3A24B03CA600A8AC15 /* FTCAppV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FTCAppV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C72AB3D24B03CA600A8AC15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C72AB3F24B03CA600A8AC15 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +55,12 @@
 		2C72AB5B24B03CA800A8AC15 /* FTCAppV2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FTCAppV2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C72AB5F24B03CA800A8AC15 /* FTCAppV2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FTCAppV2UITests.swift; sourceTree = "<group>"; };
 		2C72AB6124B03CA800A8AC15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CF90CEB689743CE1BE8900F /* Pods_FTCAppV2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FTCAppV2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		83D9490DB375F04FE6B1893D /* Pods-FTCAppV2-FTCAppV2UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FTCAppV2-FTCAppV2UITests.release.xcconfig"; path = "Target Support Files/Pods-FTCAppV2-FTCAppV2UITests/Pods-FTCAppV2-FTCAppV2UITests.release.xcconfig"; sourceTree = "<group>"; };
+		9B200C95DE575D32911FF421 /* Pods-FTCAppV2Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FTCAppV2Tests.debug.xcconfig"; path = "Target Support Files/Pods-FTCAppV2Tests/Pods-FTCAppV2Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		A57581B079F9B7B0DDC786B6 /* Pods-FTCAppV2Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FTCAppV2Tests.release.xcconfig"; path = "Target Support Files/Pods-FTCAppV2Tests/Pods-FTCAppV2Tests.release.xcconfig"; sourceTree = "<group>"; };
+		B409833185330400254E811B /* Pods_FTCAppV2_FTCAppV2UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FTCAppV2_FTCAppV2UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB8FE3BEB24F7582190C9E68 /* Pods_FTCAppV2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FTCAppV2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11494AED06694245A630F654 /* Pods_FTCAppV2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAA02F7A7CD59CB150F8A515 /* Pods_FTCAppV2Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7877ACBF43BD4572A076B81D /* Pods_FTCAppV2_FTCAppV2UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +98,8 @@
 				2C72AB5324B03CA800A8AC15 /* FTCAppV2Tests */,
 				2C72AB5E24B03CA800A8AC15 /* FTCAppV2UITests */,
 				2C72AB3B24B03CA600A8AC15 /* Products */,
+				6BDE4AD46D0BEF4E2D4CC311 /* Pods */,
+				D65F42F07676A65AAC3052CE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +145,30 @@
 			path = FTCAppV2UITests;
 			sourceTree = "<group>";
 		};
+		6BDE4AD46D0BEF4E2D4CC311 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				10A6B8C855B28972B4833984 /* Pods-FTCAppV2.debug.xcconfig */,
+				221DEC532FBE3E56F8738DCE /* Pods-FTCAppV2.release.xcconfig */,
+				248A56D98E4695C1E92F5F13 /* Pods-FTCAppV2-FTCAppV2UITests.debug.xcconfig */,
+				83D9490DB375F04FE6B1893D /* Pods-FTCAppV2-FTCAppV2UITests.release.xcconfig */,
+				9B200C95DE575D32911FF421 /* Pods-FTCAppV2Tests.debug.xcconfig */,
+				A57581B079F9B7B0DDC786B6 /* Pods-FTCAppV2Tests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		D65F42F07676A65AAC3052CE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BB8FE3BEB24F7582190C9E68 /* Pods_FTCAppV2.framework */,
+				B409833185330400254E811B /* Pods_FTCAppV2_FTCAppV2UITests.framework */,
+				3CF90CEB689743CE1BE8900F /* Pods_FTCAppV2Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +176,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C72AB6424B03CA800A8AC15 /* Build configuration list for PBXNativeTarget "FTCAppV2" */;
 			buildPhases = (
+				AAE3B3A8D6C9C7E9D0983CC5 /* [CP] Check Pods Manifest.lock */,
 				2C72AB3624B03CA600A8AC15 /* Sources */,
 				2C72AB3724B03CA600A8AC15 /* Frameworks */,
 				2C72AB3824B03CA600A8AC15 /* Resources */,
+				4F7CD429FD0BAD9627BEC92A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +195,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C72AB6724B03CA800A8AC15 /* Build configuration list for PBXNativeTarget "FTCAppV2Tests" */;
 			buildPhases = (
+				8F269E1674FFB10CB3B37A4D /* [CP] Check Pods Manifest.lock */,
 				2C72AB4C24B03CA800A8AC15 /* Sources */,
 				2C72AB4D24B03CA800A8AC15 /* Frameworks */,
 				2C72AB4E24B03CA800A8AC15 /* Resources */,
@@ -170,9 +214,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C72AB6A24B03CA800A8AC15 /* Build configuration list for PBXNativeTarget "FTCAppV2UITests" */;
 			buildPhases = (
+				B288704250A3F57BA3697289 /* [CP] Check Pods Manifest.lock */,
 				2C72AB5724B03CA800A8AC15 /* Sources */,
 				2C72AB5824B03CA800A8AC15 /* Frameworks */,
 				2C72AB5924B03CA800A8AC15 /* Resources */,
+				00733219220114DB4892A7FA /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -253,6 +299,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00733219220114DB4892A7FA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FTCAppV2-FTCAppV2UITests/Pods-FTCAppV2-FTCAppV2UITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FTCAppV2-FTCAppV2UITests/Pods-FTCAppV2-FTCAppV2UITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FTCAppV2-FTCAppV2UITests/Pods-FTCAppV2-FTCAppV2UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4F7CD429FD0BAD9627BEC92A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FTCAppV2/Pods-FTCAppV2-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FTCAppV2/Pods-FTCAppV2-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FTCAppV2/Pods-FTCAppV2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8F269E1674FFB10CB3B37A4D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FTCAppV2Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AAE3B3A8D6C9C7E9D0983CC5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FTCAppV2-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B288704250A3F57BA3697289 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FTCAppV2-FTCAppV2UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2C72AB3624B03CA600A8AC15 /* Sources */ = {
@@ -432,6 +581,7 @@
 		};
 		2C72AB6524B03CA800A8AC15 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 10A6B8C855B28972B4833984 /* Pods-FTCAppV2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -450,6 +600,7 @@
 		};
 		2C72AB6624B03CA800A8AC15 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 221DEC532FBE3E56F8738DCE /* Pods-FTCAppV2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -468,6 +619,7 @@
 		};
 		2C72AB6824B03CA800A8AC15 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9B200C95DE575D32911FF421 /* Pods-FTCAppV2Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -490,6 +642,7 @@
 		};
 		2C72AB6924B03CA800A8AC15 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A57581B079F9B7B0DDC786B6 /* Pods-FTCAppV2Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -512,6 +665,7 @@
 		};
 		2C72AB6B24B03CA800A8AC15 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 248A56D98E4695C1E92F5F13 /* Pods-FTCAppV2-FTCAppV2UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -532,6 +686,7 @@
 		};
 		2C72AB6C24B03CA800A8AC15 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 83D9490DB375F04FE6B1893D /* Pods-FTCAppV2-FTCAppV2UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

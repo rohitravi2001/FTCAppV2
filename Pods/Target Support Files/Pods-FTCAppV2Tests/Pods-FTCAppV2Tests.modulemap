@@ -1,0 +1,6 @@
+framework module Pods_FTCAppV2Tests {
+  umbrella header "Pods-FTCAppV2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
